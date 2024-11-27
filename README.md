@@ -6,8 +6,6 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
 
-
-
 # Task
 
 Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart recently. He has been briefed about the the task in the stakeholder business review meeting. Now imagine yourself as Peter Pandey and play the role of the new data analyst who is excited to build this dashboard and perform the following task:
@@ -23,7 +21,7 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 
 ![Supply Chain Insights - Atliq Mart_page-0002](https://github.com/user-attachments/assets/c733d170-3369-48f8-9062-2305371073d1)
 
-![Supply Chain Insights - Atliq Mart_page-0003](https://github.com/user-attachments/assets/84a0ad03-3ef6-45b7-ba74-4bc1a64824dc)
+![Supply Chain Insights - Atliq Mart_page-0003](https://github.com/user-attachments/assets/4264f8bd-00bb-4612-9583-3d8ee438c568)
 
 
 # Insights and Solutions for AtliqMart
